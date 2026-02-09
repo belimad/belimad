@@ -37,6 +37,18 @@ The primary mission is the expansion of the **Awesome Eliza** nexus—a curated 
 * **Privacy Cash**: Exploring the intersection of privacy protocols and digital assets.
 * **Agentic DEX Research**: Investigating architectures like Tempo and Hibachi for native agent integration.
 
+# Fuel the Machine | 供能终端 ☕
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJpbmZ6bm56bm56bm56bm56bm56bm56bm56bm56bm56bm56bm56JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxxr74tsD5u/giphy.gif" width="300">
+  <br>
+  <code>SOL: LmveWmJLn1CkitYaj8EMbGPPXeXoGBMXBZLwDqqfycZ</code>
+  <br>
+  <em>Support the synthesis of next-gen autonomous intelligence.</em>
+</p>
+
+---
+
 # Operations | 运行终端
 
 * **Project Lead**: [thejoven.com](https://thejoven.com/)
