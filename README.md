@@ -48,7 +48,7 @@ I build things that scale, ship early, and stay open. ⚡
 
 ### $\color{#14F195}{\text{⌈ Featured Projects ⌋}}$
 
-* **🟢 Solana Program XYZ**  
+* **🟢 SPL Multiplex & SKD Foundation **  
   High-performance on-chain logic built with Rust and Anchor.
 
 * **⚙️ Tooling / SDK**  
